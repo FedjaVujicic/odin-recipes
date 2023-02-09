@@ -1,0 +1,21 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color: #ffe3ab;
+}
+
+ul {
+    list-style: none;
+}
+
+.steps-list {
+    text-align: left;
+}
+
+.recipe-link {
+    text-decoration: none;
+}
+
+.recipe-link:hover {
+    color: white;
+}
